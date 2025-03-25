@@ -33,7 +33,7 @@ namespace ERP_Mini
         private void btnOrders_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             FormOrders formOrders = new FormOrders();
-            formOrders.Show();
+            formOrders.Show():
         }
     }
 }
