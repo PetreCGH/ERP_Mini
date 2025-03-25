@@ -27,7 +27,7 @@ namespace ERP_Mini
                 gridViewOrders.Columns["OrderID"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
                 gridViewOrders.Columns["CustomerID"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
                 gridViewOrders.Columns["OrderDate"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-                gridViewOrders.Columns["TotalAmount"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Far; // right for numbers
+                gridViewOrders.Columns["TotalAmount"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Far; 
                 gridViewOrders.Columns["OrderStatus"].AppearanceCell.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
             }
             catch (Exception ex)
