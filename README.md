@@ -2,17 +2,17 @@
 
 Built with **C#**, **WinForms**, **SQL Server** and **DevExpress**.
 
-## 🧩 Features
-- 🔐 User Authentication
-- 📁 Product Management (add, update, delete)
-- 👤 Customer Management (name, contact info)
-- 🧾 Order Management (customer selection, date, status, product list)
-- 🔍 Search & filter orders
-- 🗃️ Local database (SQL Server)
+## Features
+- User Authentication
+- Product Management (add, update, delete)
+- Customer Management (name, contact info)
+- Order Management (customer selection, date, status, product list)
+- Search & filter orders
+- Local database (SQL Server)
 
 ---
 
-## 💡 Technologies
+## Technologies
 
 - **C#**
 - **WinForms**
